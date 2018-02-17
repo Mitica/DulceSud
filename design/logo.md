@@ -15,3 +15,7 @@
 ### Versiunea 4
 
 ![v4](dulcesud-logo-3.png)
+
+### Versiunea 5
+
+![v5](dulcesud-logo-4.png)
