@@ -1,5 +1,9 @@
 # logo
 
+### Versiunea discutată
+
+![v2](dulcesud-logo-1_2.png)
+
 ### Versiunea 1
 
 ![v1](dulcesud-logo-0.png)
